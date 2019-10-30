@@ -1,5 +1,19 @@
 # E09a-Scripting
 
+Hello. In this repository, we will be building onto a past repository dealing with a breakout game. We will be using a combo of Godot and GitHub Desktop. In this repository, we will be playing with scripts and signals. We will be able to have a score for the game. We will also be able to experience lives within the game. And, when the game is over due to no lives left, a popup screen will come up.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 We will continue adding on to the first Godot project (E08a-Paddle-Ball). In this exercise, we will be learning more about scripting and signals in gdScript.
 
 As usual, Fork and Clone this repository. Pay attention to where (on the file system) it is being saved.
